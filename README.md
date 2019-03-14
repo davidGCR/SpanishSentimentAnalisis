@@ -3,6 +3,7 @@ Three approaches to the classification of sentiments in Spanish tweets  using th
 - “A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS”. Sanjeev Arora, Yingyu Liang, Tengyu Ma.
 - “Universal Language Model Fine-tuning for Text Classification”. Jeremy Howard, Sebastian Ruder.
 
+## Clasifiers
 ### Loss Bidirectional LSTM
 ![Alt text](https://github.com/davidGCR/SpanishSentimentAnalisis/blob/master/images/rnn_loss.png?raw=true "Title")
 
